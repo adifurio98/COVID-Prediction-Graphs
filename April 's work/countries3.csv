@@ -1,0 +1,139 @@
+Country,GDP_perc,Case_death_ratio,continent
+Barbados,47.96725998,54.15,North & Central America
+Papua New Guinea,13.67423416,146.65,Australia/Oceania
+Belize,22.46481327,99.63,North & Central America
+Qatar,289.004939,14.51,Asia
+Lesotho,8.139425096,204.7,Africa
+Mali,7.380830677,226.65,Africa
+Laos,25.28756589,35.05,Asia
+Malta,137.2860552,69.98,Europe
+Tanzania,8.572442511,210.97,Africa
+Haiti,9.441733112,254.23,North & Central America
+Fiji,41.7812969,128.61,Australia/Oceania
+Mauritania,16.49698678,157.26,Africa
+Mauritius,70.10649624,38.9,Africa
+Luxembourg,366.5997063,37.85,Europe
+Cyprus,127.5187451,19.91,Asia
+Guyana,48.07795616,179.29,South America
+Somalia,2.822752623,499.58,Africa
+Suriname,58.7113011,171.37,South America
+Madagascar,5.10179165,211.27,Africa
+Eswatini,27.67404533,193.32,Africa
+Ghana,17.2555812,85.43,Africa
+Rwanda,6.944557492,110.65,Africa
+Bahrain,143.4720183,22.1,Asia
+Uzbekistan,22.57225368,66.89,Asia
+Singapore,314.7255223,7.95,Asia
+Angola,21.48808225,185.88,Africa
+Cameroon,11.72077214,158.54,Africa
+Senegal,10.85148154,221.92,Africa
+New Zealand,139.1288211,11.28,Australia/Oceania
+Mongolia,38.74366346,21.62,Asia
+Yemen,9.116156108,1807.45,Asia
+Mozambique,4.125060639,96.5,Africa
+United Arab Emirates,218.4458907,22.59,Asia
+Kuwait,164.1526696,38.79,Asia
+Malawi,4.883655058,304.54,Africa
+Estonia,116.774704,45.25,Europe
+Botswana,55.78110807,85.49,Africa
+Montenegro,65.65911437,98.45,Europe
+Kyrgyzstan,16.3862906,144.88,Asia
+Cambodia,13.89237075,221.46,Asia
+Nigeria,16.49698678,118.52,Africa
+Syria,9.767310115,551.36,Asia
+Kosovo,36.03160702,117.64,Europe
+Jamaica,30.60423836,218.52,North & Central America
+Albania,43.73475893,107.88,Europe
+Uganda,7.055253673,214.19,Africa
+Zambia,11.17705854,120.38,Africa
+Namibia,31.25539237,240.08,Africa
+El Salvador,27.67404533,209.63,North & Central America
+Norway,208.8022999,28.92,Europe
+Trinidad and Tobago,82.26354156,230.18,South America
+Dominican Republic,57.62712968,67.71,North & Central America
+Oman,92.01131706,116.06,Asia
+Sudan,13.56679375,782.88,Africa
+Zimbabwe,9.767310115,217.38,Africa
+Kenya,13.78167457,167.12,Africa
+Venezuela,32.14747336,106.63,South America
+Latvia,98.54239175,63.53,Europe
+Libya,43.95289552,126.95,Africa
+Finland,156.3844023,49.54,Europe
+Algeria,36.68276102,254.03,Africa
+Slovenia,123.0681075,55.7,Europe
+Belarus,62.18520773,71.61,Europe
+Denmark,184.3840246,21.97,Europe
+Uruguay,73.36226628,75.9,South America
+Ethiopia,7.162694085,153.27,Africa
+Afghanistan,6.618980488,384.23,Asia
+Ireland,284.1212839,48.19,Europe
+Panama,95.28662172,85.91,North & Central America
+Cuba,39.72039447,76.76,North & Central America
+Armenia,42.3250105,195.6,Asia
+Costa Rica,66.31026837,79.14,North & Central America
+Lithuania,118.5100294,74.01,Europe
+Saudi Arabia,150.7421528,114.35,Asia
+North Macedonia,52.63603421,277.91,Europe
+Azerbaijan,45.90635754,120.91,Asia
+Lebanon,45.36264395,87.87,Asia
+Honduras,17.90673521,241.45,North & Central America
+Israel,127.7336259,25.09,Asia
+Moldova,40.91526207,200.3,Europe
+Nepal,12.59006274,120.1,Asia
+Switzerland,227.9039027,33.09,Europe
+Jordan,32.45025997,80.84,Asia
+China,51.76674361,52.24,Asia
+Australia,159.9657493,15.15,Australia/Oceania
+Bosnia and Herzegovina,47.31610597,404.46,Europe
+Morocco,23.65968087,128.61,Africa
+Sri Lanka,41.7812969,249.98,Asia
+Georgia,47.10122515,94.74,Asia
+Croatia,90.18483007,137.68,Europe
+Serbia,58.60386069,71.76,Europe
+Kazakhstan,83.7807304,128.3,Asia
+Burma,15.84583278,308.17,Asia
+Paraguay,40.91526207,273.07,South America
+Guatemala,27.78148574,174.23,North & Central America
+Slovakia,101.2544482,78.01,Europe
+Sweden,168.7563284,79.36,Europe
+Austria,176.8957535,38.49,Europe
+Bolivia,27.45590873,200.43,South America
+Netherlands,181.1282545,27.22,Europe
+Egypt,38.19994986,480.91,Africa
+Portugal,109.7194503,45.77,Europe
+Iraq,32.77583698,103.02,Asia
+Tunisia,33.96744881,255.18,Africa
+"Korea, South",137.7190726,11.37,Asia
+Bangladesh,15.19467877,144.54,Asia
+Pakistan,15.19467877,194.53,Asia
+Belgium,163.8726733,71.34,Europe
+Thailand,58.49642028,70.27,Asia
+Greece,93.54804051,65.04,Europe
+Ecuador,36.13904743,356.12,South America
+Malaysia,89.42623565,74.05,Asia
+Bulgaria,73.58040287,295.96,Europe
+Czechia,129.0359339,100.09,Europe
+Vietnam,25.82802372,37.52,Asia
+Canada,155.9513848,107.03,North & Central America
+Japan,133.9847044,20.76,Asia
+Hungary,102.7748928,223.85,Europe
+Chile,79.54822935,128.94,South America
+Philippines,27.56660492,160.31,Asia
+Romania,94.63546771,204.35,Europe
+South Africa,39.72039447,254.01,Africa
+Spain,127.3006085,85.18,Europe
+Ukraine,40.69712548,210.17,Europe
+Poland,105.2688127,186.28,Europe
+Argentina,70.10649624,133.74,South America
+Colombia,45.90635754,224.79,South America
+Iran,41.56641608,191.31,Asia
+Germany,171.4716406,43.14,Europe
+France,144.4487493,42.63,Europe
+Indonesia,37.54879585,243.55,Asia
+Italy,134.3558622,75.9,Europe
+United Kingdom,145.4254803,87.22,Europe
+Peru,40.15341188,521.65,South America
+Mexico,62.40334433,464.49,North & Central America
+Russia,87.25463703,180.87,Asia
+India,20.94436866,118.78,Asia
+Brazil,47.31610597,197.52,South America
